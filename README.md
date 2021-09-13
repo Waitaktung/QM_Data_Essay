@@ -1,4 +1,4 @@
-# Quantitative Methods, Coursework in University of Mannheim (2019 Autumn) 
+# Quantitative Methods, Coursework in University of Mannheim (2019 Autumn) Grade 2.7 
 
 Keyword: Rscript, Count Models, First Difference Tables. 
 
